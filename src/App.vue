@@ -144,7 +144,7 @@ onMounted(() => {
               <h2 class="text-[39px] leading-none text-[34px]  md:text-[43px] lg:text-[52px] lg:text-[#686868]">UI Developer & Designer</h2>
               <hr class="bg-[#F5C15A] w-full h-[7px] border-none rounded-[20px] mt-[20px] mb-[35px]">
             </div>
-            <div class="mt-[-15px] mb-[25px] lg:mb-[-50px] mr-auto sm:mr-none sm:ml-auto lg:ml-0">
+            <div class="mt-[-15px] mb-[25px] lg:mb-[-30px] mr-auto sm:mr-none sm:ml-auto lg:ml-0">
               <img class="max-w-[200px] lg:max-w-[250px]" src="./assets/andrew-portrait.png" alt="Andrew Grano smiling">
             </div>
           </div>
