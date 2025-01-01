@@ -22,37 +22,37 @@ const porfolioItems = ref([
   {
     name: 'Roaming Love',
     description: 'Editorial / Travel Blog',
-    imgSrc: 'src/assets/screenshot-romainglove.jpg',
+    imgSrc: './assets/screenshot-romainglove.jpg',
     url: 'https://www.roaminglove.com/',
   },
   {
     name: 'InfoPacked',
     description: 'Template / Landing Page',
-    imgSrc: 'src/assets/screenshot-infopacked.jpg',
+    imgSrc: './assets/screenshot-infopacked.jpg',
     url: 'https://infopacked.ycode.site/',
   },
   {
     name: 'CSUN Styleguide',
     description: 'Style Guide',
-    imgSrc: 'src/assets/screenshot-metaphor.jpg',
+    imgSrc: './assets/screenshot-metaphor.jpg',
     url: 'https://metaphor-v2.netlify.app/documentation/',
   },
   {
     name: 'Picture Day Company',
     description: 'Landing Page',
-    imgSrc: 'src/assets/screenshot-pdc.jpg',
+    imgSrc: './assets/screenshot-pdc.jpg',
     url: 'https://thepicturedaycompany.com/',
   },
   {
     name: 'PB Cottages',
     description: 'Landing Page',
-    imgSrc: 'src/assets/screenshot-pbcottages.jpg',
+    imgSrc: './assets/screenshot-pbcottages.jpg',
     url: 'https://pacificbeachcottages.com/',
   },
   {
     name: 'Media Kit for Roaming Love',
     description: 'Landing Page',
-    imgSrc: 'src/assets/screenshot-mediakit.jpg',
+    imgSrc: './assets/screenshot-mediakit.jpg',
     url: 'http://mediakit.roaminglove.com/',
   },
 ])
