@@ -22,37 +22,37 @@ const porfolioItems = ref([
   {
     name: 'Roaming Love',
     description: 'Editorial / Travel Blog',
-    imgSrc: '/assets/screenshot-romainglove.jpg',
+    imgSrc: '/screenshot-romainglove.jpg',
     url: 'https://www.roaminglove.com/',
   },
   {
     name: 'InfoPacked',
     description: 'Template / Landing Page',
-    imgSrc: '/assets/screenshot-infopacked.jpg',
+    imgSrc: '/screenshot-infopacked.jpg',
     url: 'https://infopacked.ycode.site/',
   },
   {
     name: 'CSUN Styleguide',
     description: 'Style Guide',
-    imgSrc: '/assets/screenshot-metaphor.jpg',
+    imgSrc: '/screenshot-metaphor.jpg',
     url: 'https://metaphor-v2.netlify.app/documentation/',
   },
   {
     name: 'Picture Day Company',
     description: 'Landing Page',
-    imgSrc: '/assets/screenshot-pdc.jpg',
+    imgSrc: '/screenshot-pdc.jpg',
     url: 'https://thepicturedaycompany.com/',
   },
   {
     name: 'PB Cottages',
     description: 'Landing Page',
-    imgSrc: '/assets/screenshot-pbcottages.jpg',
+    imgSrc: '/screenshot-pbcottages.jpg',
     url: 'https://pacificbeachcottages.com/',
   },
   {
     name: 'Media Kit for Roaming Love',
     description: 'Landing Page',
-    imgSrc: '/assets/screenshot-mediakit.jpg',
+    imgSrc: '/screenshot-mediakit.jpg',
     url: 'http://mediakit.roaminglove.com/',
   },
 ])
