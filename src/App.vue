@@ -1,5 +1,4 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
 import logos from './components/logos.vue'
 import badge from './components/badge.vue'
 import portfolioItem from './components/portfolioItem.vue'
@@ -67,9 +66,9 @@ const timelineItems = ref([
   },
   {
     years: '2020 - 2021',
-    title: 'Ecommerce Developer',
+    title: 'E-commerce Developer',
     company: 'Netalico (Agency)',
-    description: 'Built and maintained ecommerce sites on the Shopify platform using liquid, javascript, Sass/Scss, HTML5',
+    description: 'Built and maintained e-commerce sites on the Shopify platform using liquid, javascript, Sass/Scss, HTML5',
   },
   {
     years: '2019 - 2020',
@@ -158,7 +157,7 @@ onMounted(() => {
 
           <div class="flex flex-col gap-[20px]">
             <div class="flex gap-[10px] flex-wrap sm:flex-nowrap">
-              <badge text="Javsascript & Vue JS" color="green" first="true"/>
+              <badge text="Javascript & Vue JS" color="green" first="true"/>
               <badge text="Tailwind CSS" color="green"/>
               <badge text="GSAP Animations" color="green"/>
               <badge text="Figma" color="green"/>
