@@ -114,7 +114,7 @@ onMounted(() => {
 
   gsap.fromTo(
     "#frame",
-    { marginBottom: "-500px" }, // Starting state
+    { marginBottom: "-25vh" }, // Starting state
     {
       marginBottom: "0px", // Ending state
       duration: 1,
@@ -164,10 +164,10 @@ onMounted(() => {
               <badge text="No-code" color="green"/>
             </div>
             <div class="flex gap-[10px] flex-wrap sm:flex-nowrap">
-              <badge text="E-Commerce" color="yellow" first="true"/>
-              <badge text="Teaching / Mentoring" color="yellow"/>
-              <badge text="UI/UX" color="yellow"/>
               <badge text="Front End Development" color="yellow"/>
+              <badge text="Shopify & E-Commerce" color="yellow" first="true"/>
+              <badge text="UI/UX" color="yellow"/>
+              <badge text="Teaching / Mentoring" color="yellow"/>
             </div>
             <div class="flex gap-[10px] flex-wrap sm:flex-nowrap">
               <badge text="12+ years experience" color="blue" first="true"/>
