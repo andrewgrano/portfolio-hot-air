@@ -62,43 +62,43 @@ const timelineItems = ref([
     years: '2021 - Current',
     title: 'Front End Developer',
     company: 'ycode',
-    description: 'Developed software enabling users to create advanced websites with no-code.  Implemented no-code animations using GSAP, no-code sliders and lightboxes using SwiperJS, and design features using Tailwind CSS.'
+    description: 'Developed a no-code website builder platform, which enabled users to create advanced websites with an intuitive UI instead of coding. Implemented no-code animations using GSAP, created slider and lightbox components for users to customize, and created figma-like design options using Tailwind CSS.'
   },
   {
     years: '2020 - 2021',
     title: 'E-commerce Developer',
     company: 'Netalico (Agency)',
-    description: 'Built and maintained e-commerce sites on the Shopify platform using liquid, javascript, Sass/Scss, HTML5',
+    description: 'Built and maintained e-commerce Shopify sites for high profile clients. Developed custom sites independently. Also worked on existing sites to enhance conversions, SEO, load times, and accessibility.',
   },
   {
     years: '2019 - 2020',
     title: 'Front End Developer & UX Designer',
     company: 'WeaveUp',
-    description: 'Developed and designed software for uploading, customizing and purchasing textile designs. Used Vue.JS, VueX, Tailwind CSS and Jest. ',
+    description: 'Developed and designed software for uploading, customizing and purchasing textile designs. The company successfully exited.',
   },
   {
     years: '2018 - 2019',
     title: 'Mentor & Teacher',
     company: 'Cal State Northridge',
-    description: 'Mentored & led a team of students in an agile SCRUM environment developing Vue.JS applications. Taught front-end development bootcamps and classes.',
+    description: 'Mentored & led a team of students in an agile SCRUM environment developing Vue.JS applications for the campus. Created a custom style guide / component library for these projects. Also taught front-end development bootcamps and classes.',
   },
   {
     years: '2014 - 2017',
     title: 'Front End Developer',
     company: 'Fluent (Agency)',
-    description: 'Built custom responsive e-commerce websites and landing pages for high-profile clients using Sass, Bootstrap and jQuery.',
+    description: 'Built custom responsive e-commerce websites, landing pages, and web apps. Worked with a small team to successfully launch many high converting websites.',
   },
   {
     years: '2012 - 2013',
     title: 'Theme Developer & Designer',
     company: 'DecoNetwork',
-    description: 'Designed and built custom themes for clients within the DecoNetwork e-commerce platform.',
+    description: 'Designed and developed custom e-commerce websites/themes for the DecoNetwork platform. Self-managed many projects and worked directly with clients.',
   },
   {
     years: '2012',
     title: 'Web Design Intern',
     company: 'Tough Guppy Productions',
-    description: 'Built and maintained marketing websites for clients.'
+    description: 'Built and maintained marketing websites for clients, primarily using WordPress. As an intern, learned about web design and development, agency work, and client relations.'
   },
   {
     years: '2008 - 2012',
@@ -157,17 +157,20 @@ onMounted(() => {
 
           <div class="flex flex-col gap-[20px]">
             <div class="flex gap-[10px] flex-wrap sm:flex-nowrap">
-              <badge text="Javascript & Vue JS" color="green" first="true"/>
+              <badge text="Javascript" color="green" first="true"/>
+              <badge text="React" color="green" first="true"/>
+              <badge text="Vue.js" color="green" first="true"/>
               <badge text="Tailwind CSS" color="green"/>
+              <badge text="SCSS" color="green"/>
               <badge text="GSAP Animations" color="green"/>
-              <badge text="Figma" color="green"/>
-              <badge text="No-code" color="green"/>
             </div>
             <div class="flex gap-[10px] flex-wrap sm:flex-nowrap">
-              <badge text="Front End Development" color="yellow"/>
-              <badge text="Shopify & E-Commerce" color="yellow" first="true"/>
+              <!-- <badge text="Front End Development" color="yellow"/> -->
+              <badge text="Figma" color="yellow" first="true"/>
+              <badge text="Shopify & E-Commerce" color="yellow" />
               <badge text="UI/UX" color="yellow"/>
               <badge text="Teaching / Mentoring" color="yellow"/>
+              <badge text="No-code" color="yellow"/>
             </div>
             <div class="flex gap-[10px] flex-wrap sm:flex-nowrap">
               <badge text="12+ years experience" color="blue" first="true"/>
