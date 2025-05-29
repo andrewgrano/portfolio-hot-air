@@ -2,8 +2,8 @@
   <footer class="pt-[50px] pb-[0px]">
     <ul class="flex flex-col sm:flex-row text-center justify-center gap-[15px] md:gap-[30px] mb-[20px]">
       <li><a class="underline sm:text-[20px] md:text-[22px]" href="mailto:andrewgrano@gmail.com">andrewgrano@gmail.com</a></li>
-      <li><a class="underline sm:text-[20px] md:text-[22px]" href="https://www.linkedin.com/in/andrewgrano/" target="linkedin">connect with me on linkedin</a></li>
-      <li><a class="underline sm:text-[20px] md:text-[22px]" href="/andrew-grano-resume.pdf" target="resume">download my resume</a></li>
+      <li><a class="underline sm:text-[20px] md:text-[22px]" href="https://www.linkedin.com/in/andrewgrano/" target="linkedin">Connect with Andrew on linkedin</a></li>
+      <li><a class="underline sm:text-[20px] md:text-[22px]" href="/andrew-grano-resume.pdf" target="resume">Download Andrew's resume</a></li>
     </ul>
     <h3 class="font-bold text-[54px] sm:text-[78px] text-center mb-[100px] lg:mb-[200px]">
       Andrew Grano 
