@@ -21,7 +21,7 @@ const timelineItems = ref([
     years: '2025',
     title: 'UI/UX Developer',
     company: 'Pantheon Data',
-    description: 'Designed and developed the front-end of AI powered software for the United States Navy as an official government contractor with a security clearance.'
+    description: 'Sole designer/developer creating the front-end of AI software for the United States Navy as an official government contractor with a security clearance. Used Typescript, React, Tanstack Table, Vite, Figma.'
   },
 {
     years: '2021 - 2025',
