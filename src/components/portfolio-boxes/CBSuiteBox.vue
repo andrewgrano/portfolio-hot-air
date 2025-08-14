@@ -19,18 +19,18 @@ const closeModal = () => {
     @click="openModal"
   >
     <div>
-      <h4 class="text-[40px] font-bold tracking-[-0.03rem] mb-0 leading-none">CB Suite</h4>
+      <h4 class="text-[40px] font-bold tracking-[-0.03rem] mb-0 leading-none">DoD OCR App</h4>
       <p class="font-['Permanent_Marker'] text-[16px] text-[#F5C15A] mb-6">DESIGN + DEVELOPMENT</p>
       <img 
         src="/screenshot-cbsuite.png"
-        alt="Screenshot of CB Suite"
+        alt="Screenshot of DoD OCR App"
         class="mb-6"
       >
       <p class="text-[18px] mb-4 leading-tight">
-        Andrew designed and developed the front-end of this HR software for the U.S. Navy while working as an official government contractor for Pantheon Data.
+        Andrew designed and developed the front-end of this web app for the US Department of Defence while working as an official government contractor. It performs optical character recognition via file upload and download features.
       </p>
       <p class="text-[18px] leading-tight">
-        It is built with Typescript, React, Tanstack Table, Tailwind CSS, and Vite.  Figma and LucidChart were used for designing the UI/UX.  
+         The web app is built with Typescript, React, Tanstack Table, Tailwind CSS, and Vite. Figma and LucidChart were used for designing the UI/UX. 
       </p>
     </div>
   </div>
