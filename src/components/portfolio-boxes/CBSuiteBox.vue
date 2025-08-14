@@ -38,7 +38,7 @@ const closeModal = () => {
   <VideoModal
     :is-open="isModalOpen"
     video-src="/cbsuite-demo-video.mov"
-    title="CB Suite Demo"
+    title="DoD OCR App Demo"
     @close="closeModal"
   />
 </template>
