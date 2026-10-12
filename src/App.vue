@@ -150,7 +150,7 @@ onMounted(() => {
 
 
               </h1>
-              <h2 class="leading-none text-[30px] md:text-[34px] lg:text-[41px]">UI/UX Developer<br class="block sm:hidden"> & Designer.</h2>
+              <h2 class="leading-none font-bold text-[30px] md:text-[36px] lg:text-[46px]">Front End <br class="block sm:hidden">Design Engineer</h2>
               <!-- <hr class="bg-[#F5C15A] w-full h-[7px] border-none rounded-[20px] mt-[20px] mb-[35px]"> -->
             </div>
             <div class="flex flex-col sm:flex-row items-center gap-2 xl:mt-[-25px] xl:ml-[-35px] 2xl:ml-0 mb-[65px] xl:mb-0 mt-[25px] xl:mt-0">
@@ -200,15 +200,13 @@ onMounted(() => {
             
           </div>
 
-          <div class="flex flex-col gap-[20px] mb-[50px] tracking-[-0.03rem] leading-tight">
-            <p>Specialized in working at the intersection of <strong class="hand-drawn-highlight">design & development</strong>.</p>
-            <p>Creates web sites & web apps that are <strong class="hand-drawn-highlight">accessible, functional & beautiful</strong>.</p>
-            <p>A strong <strong class="hand-drawn-highlight">communicator and problem solver</strong> with <strong class="hand-drawn-highlight">12+ years</strong> of experience.</p>
-            <!-- <p>A <strong>problem solver</strong> with an eclectic <strong>12 year</strong> professional history, and a lifetime passion.</p> -->
-            <!-- <p>A <strong>problem solver</strong> who enjoys <strong>crafting design systems</strong> and building <strong>responsive layouts</strong>.</p> -->
+          <div class="flex flex-col gap-[20px] mb-[50px] tracking-[-0.03rem] leading-tight pr-[28%]">
+            <p>12+ years of experience working at the intersection of <strong class="hand-drawn-highlight">design & development</strong>.</p>
+            <p>Specializes in translating product and design concepts into accessible, responsive, <strong class="hand-drawn-highlight">production-ready interfaces</strong>.</p>
+            <p>Experienced in building <strong class="hand-drawn-highlight">design tools, AI-powered platforms, design systems,</strong> ecommerce experiences,  and component-driven products.</p>
           </div>
 
-          <div class="flex flex-col block lg:hidden">
+          <div class="flex flex-col block lg:hidden"><strong class="hand-drawn-highlight"></strong>
             <h3 class="sectionHeading ">Projects</h3>
             <svg width="125" height="10" viewBox="0 0 125 10" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M3 5.10549C7.26041 5.10549 16.7287 4.68869 21.0245 3.94983C26.0631 3.08323 30.0642 3.63408 35.285 3.31833C48.3512 2.52808 57.7794 3.41937 60.0224 3.73512C67.379 4.77072 74.6986 4.47398 81.824 4.99813C89.9898 5.59881 93.8543 5.73699 97.0931 6.36534C98.4227 6.62329 106.055 7 118.817 7C133.837 7 137.258 6.36849 140.915 5.84435C146.674 5.01921 152.701 5.10549 165.543 4.58134C174.692 4.20796 192.353 4.47398 201.766 4.36978C211.822 4.25847 219.282 3.84248 229.913 3.94667C240.365 4.04911 252.424 4.89077 255.753 5.62963C257.739 6.07045 259.52 5.94539 266.443 6.26114C272.721 6.54752 284.638 6.36849 291.093 6.2643C298.186 5.9517 299.482 5.52859 300.874 5.10864C301.628 4.89709 302.479 4.68869 304 3.84248" stroke="#F5C15A" stroke-width="5" stroke-linecap="round"/>
@@ -227,43 +225,34 @@ onMounted(() => {
           </div>
 
           <div class="flex flex-col gap-[20px] mb-[50px]">
-            <div class="flex gap-[10px] flex-wrap">
-              <!-- <badge text="12+ years experience" color="blue" first="true"/> -->
-              <badge text="B.A. Degree, Multimedia" color="blue"/>
-              <badge text="LearnUI.Design Cert." color="blue"/>
-              <badge text="Govt. Security Clearance" color="blue" />
-              <!-- <badge text="Teaching / Mentoring" color="blue"/> -->
-            </div>
+            
             <div class="flex gap-[10px] flex-wrap">
               <badge text="Javascript / Typescript" color="green" first="true"/>
-              <!-- <badge text="Typescript" color="green" first="true"/> -->
               <badge text="React" color="green" first="true"/>
-              <badge text="Vue.js" color="green" first="true"/>
+              <!-- <badge text="Vue.js" color="green" first="true"/> -->
               <badge text="Tailwind CSS" color="green"/>
-              <!-- <badge text="GSAP Animations" color="green"/> -->
-              <!-- <badge text="AI Tools" color="green"/> -->
-              <!-- <badge text="Vite" color="green"/> -->
-              <badge text="Git & Github" color="green"/> 
+              <badge text="GSAP" color="green"/> 
             </div>
             <div class="flex gap-[10px] flex-wrap">
-              <!-- <badge text="Front End Development" color="yellow"/> -->
               
+              <badge text="Design systems" color="yellow"/>
               <badge text="Figma" color="yellow" first="true"/>
               <badge text="Responsive Design" color="yellow"/>
-              <badge text="Wireframing" color="yellow"/>
-              <badge text="Styleguides" color="yellow"/>
               <badge text="Animations" color="yellow"/>
              
             </div>
             <div class="flex gap-[10px] flex-wrap">
-              <!-- <badge text="12+ years experience" color="blue"/> -->
-              <badge text="AI & No-Code Tools" color="blue"/>
+              <badge text="Electron" color="blue"/>
               <badge text="Shopify & E-commerce" color="blue"/>
-              <badge text="Teaching / Mentoring" color="blue"/>
-              <!-- <badge text="Agile Scrum" color="blue"/> -->
+              <badge text="Claude & Cursor" color="blue"/>
+              <badge text="Git" color="blue"/>
 
             </div>
-            
+            <div class="flex gap-[10px] flex-wrap">
+              <badge text="B.A. Degree, Multimedia" color="blue"/>
+              <badge text="Mentoring & Teaching" color="blue"/>
+              <!-- <badge text="Strong Communication" color="blue"/> -->
+            </div>
           </div>
         </section>
 
@@ -271,7 +260,7 @@ onMounted(() => {
         <logos />
 
         
-        <section>
+        <!-- <section>
           <div class="mb-[50px]">
             <h3 class="sectionHeading">Professional History</h3>
             <svg width="266" height="10" viewBox="0 0 266 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -292,7 +281,7 @@ onMounted(() => {
               :description="item.description"
             />
           </ul>
-        </section>
+        </section> -->
       </div>
   </div>
   <pageFooter />

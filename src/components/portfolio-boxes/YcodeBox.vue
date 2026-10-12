@@ -16,7 +16,7 @@ import { ref, onMounted } from 'vue'
           Andrew worked on the Ycode product team for 3+ years as the lead front-end developer. Ycode is a powerful no-code website builder.
         </p>
         <p class="text-[18px] leading-tight">
-          Creating custom features from scratch for both the UI of the platform and the code behind the website which it generated, this is some of Andrew's proudest work. Animations powered by GSAP, a box-shadow generator using Tailwind CSS, and a custom slider/carousel/lightbox using Swiper JS are some examples of the Andrew's work.
+          Creating custom features from scratch for both the UI of the platform and the code behind the website which it generated, this is some of Andrew's proudest work. Animations powered by GSAP, a box-shadow generator using Tailwind CSS, and a custom slider/carousel/lightbox using Swiper JS are some examples of Andrew's work.
         </p>
       </div>
     </div>

@@ -27,7 +27,7 @@ const closeModal = () => {
         class="mb-6"
       >
       <p class="text-[18px] mb-4 leading-tight">
-        Andrew designed and developed the front-end of this web app for the US Department of Defence while working as an official government contractor. It performs optical character recognition via file upload and download features.
+        Andrew designed and developed the front-end of this web app for the US Department of Defense while working as an official government contractor. It performs optical character recognition via file upload and download features.
       </p>
       <p class="text-[18px] leading-tight">
          The web app is built with Typescript, React, Tanstack Table, Tailwind CSS, and Vite. Figma and LucidChart were used for designing the UI/UX. 

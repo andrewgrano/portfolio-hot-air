@@ -1,15 +1,16 @@
 <template>
-  <footer class="pt-[50px] pb-[0px] text-[#2d2d2d] md:text-[#ECECEC]">
-    <ul class="footer-list flex flex-col md:flex-row text-center justify-center gap-[15px] md:gap-[30px] mb-[20px]">
-      <li><a class="underline sm:text-[20px] md:text-[22px] footer-highlight" href="mailto:andrewgrano@gmail.com">andrewgrano@gmail.com</a></li>
-      <li><a class="underline sm:text-[20px] md:text-[22px] footer-highlight" href="https://www.linkedin.com/in/andrewgrano/" target="linkedin">Connect with Andrew on LinkedIn</a></li>
-      <li><a class="underline sm:text-[20px] md:text-[22px] footer-highlight" href="/andrew-grano-resume.pdf" target="resume">Download Andrew's resume</a></li>
-    </ul>
-    <h3 class="font-['Permanent_Marker'] text-[54px] sm:text-[78px] leading-tight text-center mb-[100px] lg:mb-[200px]">
+  <footer class="pt-[100px] pb-[0px] text-[#2d2d2d] md:text-[#ECECEC]">
+    
+    <h3 class="font-['Permanent_Marker'] text-[54px] sm:text-[78px] leading-tight text-center mb-[70px] lg:mb-[100px]">
       Andrew Grano
     </h3>
+    <ul class="footer-list flex flex-col md:flex-row text-center justify-center gap-[15px] md:gap-[30px] mb-[100px]">
+      <li><a class="underline sm:text-[20px] md:text-[22px] footer-highlight" href="mailto:andrewgrano@gmail.com">Email</a></li>
+      <li><a class="underline sm:text-[20px] md:text-[22px] footer-highlight" href="https://www.linkedin.com/in/andrewgrano/" target="linkedin">LinkedIn</a></li>
+      <li><a class="underline sm:text-[20px] md:text-[22px] footer-highlight" href="/andrew-grano-resume.pdf" target="resume">Resume</a></li>
+    </ul>
   </footer>
-  <p class="text-[13px] opacity-[80%] text-cente text-[#2d2d2d] md:text-[#ECECEC] text-center mb-[50px]">Copyright 2025</p>
+  <p class="text-[13px] opacity-[80%] text-cente text-[#2d2d2d] md:text-[#ECECEC] text-center mb-[50px]">Copyright 2026</p>
 
 </template>
 

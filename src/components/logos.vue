@@ -1,5 +1,5 @@
 <template>
-  <div class="pt-[70px] pb-[125px]">
+  <div class="pt-[70px] pb-[30px]">
     <div class="flex justify-end mb-[50px]">
       <div class="flex flex-col">
         <h3 class="sectionHeading">Past Clients / Employers</h3>
