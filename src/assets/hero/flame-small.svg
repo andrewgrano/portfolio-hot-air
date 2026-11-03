@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="44" height="60.104" viewBox="0 0 44 60.104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Burner flame" d="M21.6942 52.2304C21.1963 51.5522 20.9972 51.1001 21.1963 50.4219C21.3955 49.819 21.1963 49.2916 21.5947 48.8394C21.7938 48.3873 22.1922 48.0859 21.993 47.1816C22.8892 48.0105 22.1922 48.6887 22.4909 49.3669C22.7897 49.819 22.5905 50.1958 22.8892 50.6479C23.2876 51.2508 22.7897 51.8536 22.2917 52.2304H21.6942Z" fill="url(#flame)"/>
+<defs>
+<linearGradient id="flame" x1="21.6942" y1="47.1816" x2="24.3721" y2="50.5656" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EF7017" stop-opacity="0.25098"/>
+<stop offset="0.7" stop-color="#FFCF4D"/>
+<stop offset="1" stop-color="#FFAE21" stop-opacity="0.698039"/>
+</linearGradient>
+</defs>
+</svg>
