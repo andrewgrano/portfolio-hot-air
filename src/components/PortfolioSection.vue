@@ -13,8 +13,8 @@ const projects = [
     image: '/portfolio/designbase.png',
     alt: 'Screenshot of the Designbase desktop app',
     paragraphs: [
-      'Andrew is a founding engineer at Designbase, an AI-native workspace for design systems, production code, and agents. Teams import a React component library, prototype from real product code, and share the same product context with designers, engineers, and agents.',
-      'He built the Electron desktop app, turning product concepts into the workflows people use, and designs reusable React components for the product’s design system.',
+      'Andrew is a founding engineer at Designbase, an AI-powered platform for designing, creating protoypesm, managing design systems and editing production code visually. It works with any React web application and is serverless, storing files in your codebase.',
+      'He architected much of the Electron desktop app. He also created reusable React components for the product’s design system.',
     ],
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     alt: 'Screenshot of the Ycode editor',
     paragraphs: [
       'Andrew worked on the Ycode product team for 3+ years as the lead front-end developer. Ycode is a powerful no-code website builder.',
-      "Creating custom features from scratch for both the UI of the platform and the code behind the website which it generated, this is some of Andrew's proudest work. Animations powered by GSAP, a box-shadow generator using Tailwind CSS, and a custom slider/carousel/lightbox using Swiper JS are some examples of Andrew's work.",
+      "Created custom features for both the UI of the platform and the website which it generated. Animations powered by GSAP, a box-shadow generator for Tailwind CSS, and a custom slider/carousel/lightbox using Swiper JS are some examples of Andrew's work on the product.",
     ],
   },
   {
@@ -49,7 +49,7 @@ const projects = [
     image: '/portfolio/dod.png',
     alt: 'Screenshot of DoD OCR App',
     paragraphs: [
-      'Andrew designed and developed the front-end of this web app for the US Department of Defense while working as an official government contractor. It performs optical character recognition via file upload and download features.',
+      'Andrew designed and developed the front-end of this web app for the US Department of Defense while working as an official government contractor. It performs optical character recognition via file upload and includes complex filter/sort functionality.',
       'The web app is built with Typescript, React, Tanstack Table, Tailwind CSS, and Vite. Figma and LucidChart were used for designing the UI/UX.',
     ],
   },
@@ -73,8 +73,8 @@ const projects = [
     image: '/portfolio/feetures.png',
     alt: 'Screenshot of Feetures website',
     paragraphs: [
-      'A shopify website built from scratch by Andrew while working for Netalico - using Liquid, Javascript, and Scss.',
-      'The site is completely custom and includes nearly every imaginable feature that an e-commerce website could have for both users and admins.',
+      'A shopify website built by Andrew while working for Netalico. It uses Liquid, Javascript, and Scss.',
+      'The site is completely custom and includes nearly every imaginable feature for an e-commerce site including complex PLP cards and sorting/filtering functionality, content-heavy PDPs, and lots of admin CMS abilities.',
     ],
   },
   {
@@ -86,7 +86,7 @@ const projects = [
     alt: 'Screenshot of Roaming Love blog - Homepage',
     paragraphs: [
       'A community travel blog with hundreds of articles and authors. Built, designed, and maintained solely by Andrew.',
-      'Hosted on Netlify, a static site generator powered the front end while Github hooks powered a CI/CD pipeline with WordPress as the backend.',
+      'A static site generator powered the front end while Github hooks powered a CI/CD pipeline with WordPress as the backend.',
     ],
   },
   /*
@@ -241,7 +241,7 @@ function landingGo(index) {
   flex-direction: column;
   gap: 16px;
   min-width: 0;
-  padding: 16px;
+  padding: 20px;
   background: #eeebe3;
   border: 1px solid #dedcd2;
   border-radius: 3px;
@@ -351,7 +351,7 @@ function landingGo(index) {
   margin: 0;
   font-family: "Cormorant Garamond", Georgia, serif;
   font-weight: 400;
-  font-size: 32px;
+  font-size: 34px;
   line-height: 1.05;
   color: #233e38;
 }
@@ -359,7 +359,7 @@ function landingGo(index) {
 .role {
   margin: 0;
   font-family: "Instrument Sans", sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 1.5;
   color: #6d7a70;
 }
@@ -374,7 +374,7 @@ function landingGo(index) {
   margin: 0;
   font-family: "Instrument Sans", sans-serif;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
   color: #233e38;
 }
