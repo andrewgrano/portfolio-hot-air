@@ -13,7 +13,7 @@ const projects = [
     image: '/portfolio/designbase.png',
     alt: 'Screenshot of the Designbase desktop app',
     paragraphs: [
-      'Andrew is a founding engineer at Designbase, an AI-powered platform for designing, creating protoypesm, managing design systems and editing production code visually. It works with any React web application and is serverless, storing files in your codebase.',
+      'Andrew is a founding engineer at Designbase, an AI-powered platform for designing, creating prototypes, managing design systems and editing production code visually. It works with any React web application and is serverless, storing files in your codebase.',
       'He architected much of the Electron desktop app. He also created reusable React components for the product’s design system.',
     ],
   },
